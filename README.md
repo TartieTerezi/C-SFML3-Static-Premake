@@ -7,7 +7,7 @@ All dependencies are already included in this repo (premake5 and C-SFML 3.0.0).
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Theo-Mestre/C-SFML-Static-Premake.git
+git clone https://github.com/TartieTerezi/C-SFML3-Static-Premake.git
 ```
 
 ### Setting Up the Solution
