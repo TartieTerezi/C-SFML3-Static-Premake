@@ -2,12 +2,12 @@
 
 This repository provides a simple setup to create a SFML application using Premake 5. 
 The solution includes two ready to use projects: `App` (an executable) and `Core` (a static library).
-All dependencies are already included in this repo (premake5 and SFML 2.6.1).
+All dependencies are already included in this repo (premake5 and SFML 3.0.0).
 
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/Theo-Mestre/SFML-Static-Premake.git
+git clone https://github.com/TartieTerezi/C-SFML3-Static-Premake.git
 ```
 
 ### Setting Up the Solution
